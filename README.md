@@ -1,8 +1,8 @@
 # Fuzzy-C-Means
 In This project I tried to implement fuzzy c-means algorithms which is a clustering algorithm similar to k-means. As in the name of the project it is implemented using fuzzy values and rules.
 In each iteration leaders of each of the clusters get updated and the membership value of the data to each of these leaders are calculated.
-I used this formula to calculate the membership if each of all the data to each of the leaders' of the clusters:
-[formula1.jpg](https://postimg.cc/BPLMJVpZ)
+I used this formula to calculate the membership if each of all the data to each of the leaders' of the clusters: <br>
+[![formula1.jpg](https://i.postimg.cc/SRV5f0z9/formula1.jpg)](https://postimg.cc/BPLMJVpZ)
 
 Here are some of the result:
 
