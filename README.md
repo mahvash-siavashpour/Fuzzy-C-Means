@@ -3,6 +3,12 @@ In This project I tried to implement fuzzy c-means algorithms which is a cluster
 In each iteration leaders of each of the clusters get updated and the membership value of the data to each of these leaders are calculated.
 I used this formula to calculate the membership if each of all the data to each of the leaders' of the clusters: <br>
 [![formula1.jpg](https://i.postimg.cc/VsrPjv7s/formula1.jpg)](https://postimg.cc/grW7pzF1)
-Here are some of the result:
+<br>
+Here are some of the result:<br>
+## 1. Fuzzy Plot of Clusters of Dataset no.1 ##
+[![Image1.jpg](https://i.postimg.cc/d0bmpWKx/Image1.jpg)](https://postimg.cc/hJ0d71vL)
+
+## 1. Classic Plot of Clusters of Dataset no.3 ##
+[![image2.jpg](https://i.postimg.cc/DyxQnfTs/image2.jpg)](https://postimg.cc/bs2SRhdN)
 
 The furthur explenations can be found in the Jupyter Notebook inside this repositary.
